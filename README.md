@@ -1,6 +1,8 @@
 ## Inspiration
 Single framework for translation, image detection, image search ,managing content in enterprise repository, and analysis of documents in the repository  just at your fingertips. also automatically finding text in the images so that we can translate text of the image also. Same framework serves product feedback analyse and creates a beautiful dashboards 
 
+### Turbo Mobile Bot is available on AWS AI Hackathon Slack channel -  awsaichallange.slack.com
+
 ## What it does
 It does almost everything what AWS AI framework provides.
 ### Translate Text,
